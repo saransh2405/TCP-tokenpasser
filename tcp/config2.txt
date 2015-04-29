@@ -1,0 +1,4 @@
+3
+dc01.utdallas.edu 6666 dc12.utdallas.edu:6667;dc23.utdallas.edu:6668;dc01.utdallas.edu:6666
+dc12.utdallas.edu 6667 dc23.utdallas.edu:6668;dc12.utdallas.edu:6667
+dc23.utdallas.edu 6668 dc12.utdallas.edu:6667;dc23.utdallas.edu:6668
